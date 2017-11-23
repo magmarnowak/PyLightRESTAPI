@@ -9,3 +9,6 @@ Materials for a basic tutorial on working with REST APIs using Python requests l
 
 ## To run the code in the notebook:
 Click on a given cell and press SHIFT+ENTER
+
+## To get Marvel API keys
+Go here and click on "Get a Key": https://developer.marvel.com/
